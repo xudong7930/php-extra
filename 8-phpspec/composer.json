@@ -1,0 +1,11 @@
+{
+    
+    "require-dev": {
+        "phpspec/phpspec": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    }
+}

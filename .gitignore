@@ -1,0 +1,12 @@
+node_modules
+vendor
+.vscode
+.env
+.git
+.svn
+.idea
+.DS_Store
+4-namespace/vendor
+7-interface-necessity/vendor
+8-phpspec/vendor
+9-tell-dont-ask/vendor
